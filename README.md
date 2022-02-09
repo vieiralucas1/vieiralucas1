@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vieiralucas1
 - 👀 I’m interested in campin and games
-- 🌱 I’m currently learning javascript, css and html
+- 🌱 I’m currently learning javascript, css, html and reactJS
 - 💞️ I’m looking to collaborate on page creation.
 - 📫 How to reach me lukivisvs@gmail.com
 
